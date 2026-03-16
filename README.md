@@ -16,7 +16,7 @@ Escopo Não Funcional
 * Segurança e Armazenamento de Arquivos
 
 
-
+------------------- ------------------- ------------------- -------------------
 
 
 Projeto dividido em fases para desenvolvimento e planejamento do produto
@@ -24,8 +24,8 @@ Projeto dividido em fases para desenvolvimento e planejamento do produto
  Fases
 
 * Iniciação
-    - [ x ] Configuração do repositório
-    - [ x ] Definição do escopo do Projeto   
+    - [x] Configuração do repositório
+    - [x] Definição do escopo do Projeto   
     - [ ] Divisão e estrutura de artefatos
         *  1º - Requisitos
         * 2º - Análise e Design
