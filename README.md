@@ -16,6 +16,9 @@ Escopo Não Funcional
 * Segurança e Armazenamento de Arquivos
 
 
+a ideia é fazer uma aplicação permitindo que usuários se cadastrem como clientes ou prestadores/criadores (makers). Os makers podem registrar suas impressoras informando características como tipo de equipamento, materiais suportados (como PLA, ABS, entre outros), capacidade de impressão, descrição do serviço oferecido e um meio de contato (WhatsApp, email, telefone fixo etc).
+Um dos principais recursos do sistema é a visualização em mapa, onde os makers são exibidos de forma geolocalizada. Cada impressora aparece como um marcador, e ao interagir com ele, o usuário pode visualizar informações detalhadas como o tipo de impressora, materiais disponíveis, descrição do serviço e formas de contato com o prestador.
+
 ------------------- ------------------- ------------------- -------------------
 
 
