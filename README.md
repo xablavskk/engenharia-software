@@ -1,5 +1,5 @@
 
-# Engenharia de Sofwtare - Melhoria de Processo[
+# Engenharia de Sofwtare - Melhoria de Processo
 
 Escopo Funcional (Funcionalidades do Sistema)
 * Cadastro de Usuários
@@ -39,8 +39,3 @@ Projeto dividido em fases para desenvolvimento e planejamento do produto
 * Elaboração
 * Construção
 * Transição
-
-
-## Tema Proposto - ???
-
-## Qual Problema Resolveria?
